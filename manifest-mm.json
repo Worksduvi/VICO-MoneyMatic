@@ -1,0 +1,21 @@
+{
+  "name": "MoneyMatic Duvi",
+  "short_name": "MoneyMatic",
+  "description": "Generador de contenido para redes sociales con IA. Meta, Instagram, TikTok, X.",
+  "start_url": "./moneymatic.html",
+  "scope": "./",
+  "id": "./moneymatic.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f7ff",
+  "theme_color": "#6366f1",
+  "icons": [
+    { "src": "icon-mm.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-mm.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["business", "productivity", "social"],
+  "lang": "es",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "screenshots": []
+}
